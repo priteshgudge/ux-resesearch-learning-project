@@ -1,0 +1,125 @@
+[Agri-Investor User research plan]
+
+
+Study 1: Semi-Structured Interview
+Casual online investors and what they need in agriculture investing
+Background
+Digitization of investing has become a trend. Nowadays both casual and professional investors are getting comfortable with digital tools for investing their money. The agri-investment sector is still untouched by this trend in digital investing. If one wants to invest in agriculture, they need to have contacts with farmers or agri-businesses, need to draw up contracts and do all the tracking manually. Our platform aims at making this process simpler for first time Agri-investors via an application where they can access all the data for decision making for their investment goals.
+Research Goal
+Our teams wants to learn about how existing casual investors in financial products are doing their investments and what they expect to get as information and tracking from their investment products. Understand the user, who they are, their lifestyle, their typical investment products and would they be interested in making investments in agricultural financing for farms and agri-businesses. 
+Design a simple, intuitive and functional web interface.
+Learn more users’ expectations about the investment product and arrive at new ways to create a cleaner, cohesive investing experience.
+Learn about user’s need to track investment products performance over time and make decisions about addition of capital or dilution
+Research Questions
+
+● [Needs] What is essential knowledge for Agriculture investing? 
+    ○ What do the user’s want to know about the agriculture investing space?
+    ○ Why do they want to invest in agriculture? Social and Financial Motivations.
+
+
+● [Behaviors] What methods do they currently use to save and invest money?
+    ○ How do they save money?  
+    ○ Who do they trust to ask questions about how to invest their money?
+    ○ What is their investment portfolio, where have they invested their money till now?  
+
+● Do the users really need an agricultural investing platform? 
+    ○ How do they feel about existing investment products?
+    ○ What do they know about diversification of financial portfolios?
+    ○ How much are they willing to invest in agriculture?  
+Method 
+● 20-minute video semi-structured interview to gather in-depth qualitative data
+● The researcher will use the interview script as a guide and ask follow-up questions based on answers from the users
+Recruiting
+5 participants
+Adults with full-time jobs who are:
+Investing in financial products like stocks, mutual funds
+Have made an investment decision in the past 3 months
+To recruit participants we will send WhatsApp messages to friends and family members who are holding full-time jobs. 
+
+Screening Questions
+
+What type of financial products do you invest in?
+
+Mutual Funds
+Company Stocks
+Debt Products(Screened Out)
+Unit-Linked Insurance Products(Screened Out)
+Others(Screened Out)
+
+What is your primary way to invest in financial products? 
+Financial Consultant(Screened Out)
+Broker(Screened Out)
+Web Applications
+Financial Company Agents
+     
+       3.   How many different financial products are you currently invested in?
+1 or 2(Screened Out)
+2 - 5
+5 - 10
+More than 10(Screened Out)
+
+        4. How often do you invest or reinvest into financial products?
+Once a week(Screened Out)
+2-3 times a week(Screened OUt)
+Once a month
+Once every 2 or 3 months
+Not actively looking at financial products(Screened OUt)
+
+Timeline
+Design proposal: May 1—3, 2020
+Recruiting: May 6—8, 2020
+Sessions: May 12--15, 2020
+Readout: May 18, 2020
+
+Script
+Notes: ​[italicized brackets] ​are used to document what we wish to learn from each question
+
+Script
+My name is [name]. Thank you very much for participating in this study. I am currently working on a project related to agriculture investing. I would like to learn more about your experience investing using digital products. This interview will take about 30 minutes. Ifyou want to leave the session or take a break at any point, please let me know. Do you have anyquestions before we start?
+
+Do you mind if I record this session for note-taking purposes? The recording won’t be shared with anyone outside of our team.
+
+Warm-up Questions ​[Build rapport. Start with easy questions to get to know the participant]
+1.Could you tell us more about yourself.
+2.Which investment products do you invest in? [To understand more about risk appetite and market knowledge]
+3.Which apps or websites are you currently using for investing? Have you tried other apps before?
+
+Probe into needs and behaviors
+4.How did you get started using online investing applications?​ [Motivation​: ​what did participants hope to achieve?]
+Follow-up questions:
+○When did this happen?
+○What was the trigger?
+○How was the investing experience?
+○What was the usage outcome? Did you reach your investing goal?
+
+5.How long have you been investing?
+Follow-up questions:
+○Where did you make your very first investment?
+○(If not digital) Why did you decide to switch to using the online platform? ​[Which needs did digital platforms meet that other modes failed to meet?]
+
+6..How often do you invest? What is your investment strategy on a weekly/monthly/annual basis? ​[There might be internal motivation “I want to learn the investment markets” and external motivation “I want to buy a house in 10 years”.]
+Follow-up questions:
+○What are your expectations on returns?​ [What makes users excited to keep investing?]
+○How often do you track your metrics of investments? ​[Do users care about weekly, monthly, quarterly changes in valuation?] Do existing apps do a good job at showing the changes in valuation?
+
+7. How do you decide what products/companies to invest in? Why? ​[What is the user’s analytical process before investing?]
+○Do you compare Profit/Expenditure ratios or projected internal rate of returns? ​[What advanced metrics do the participants look at?]
+
+8. What application do you use to invest and track investments right now?
+○Have you used other products/tools?
+○What was the very first platform you were using? Why did you switch to other products?​[Pain points]
+○(If participant is using more than 1 product concurrently) What do you use each product for? ​[Needs]
+
+9. You mentioned you are currently using Zerodha, what time of month and where do you usually use Zerodha? ​[Does the participant have a regular routine? Is it spontaneous?]
+Follow-up questions:
+○Ask participants about the context ​[when and where]​: After the 5th of every month? Is it after they receive their salary? 
+○ Ask participants why they choose to use the platform in certain locations or during certain times
+
+10. When was the last time you opened up Zerodha? Could you walk me through how you were using this app? ​ [How do investors interact with existing platforms?. Better to ask participants to show than tell]
+Observation & follow-up questions:
+○Observe what features the participant is using and how the participant uses them.
+○Ask what participants like or dislike about each feature, why they like/dislike each feature.
+○Which features do participants not use and why?
+○What’s on participants’ wishlist for the app?
+○If participants talk about frustrations, ask why and their current workarounds[Unmet needs]
+
